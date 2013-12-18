@@ -1,2 +1,2 @@
-sea-battle
+sea-battle test
 ==========
